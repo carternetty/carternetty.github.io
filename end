@@ -1,0 +1,39 @@
+[33mcommit a3f8c9c68338a09d49e28bfe8adaa84ffda874ab[m
+Author: carternetty <carternetty@gmail.com>
+Date:   Mon Jul 11 08:23:16 2016 -0600
+
+    js file
+
+[33mcommit 15dd4a0616dee84ddb710fc0991d72ad31bca0e9[m
+Author: carternetty <carternetty@gmail.com>
+Date:   Mon Jul 11 08:22:42 2016 -0600
+
+    css folder for resume
+
+[33mcommit 0b90fd986afaad6736905a37f52e2a20664e35e1[m
+Author: carternetty <carternetty@gmail.com>
+Date:   Wed Jul 6 09:19:58 2016 -0600
+
+    create new website
+
+[33mcommit 3e09d9fc5f150ecf0254be2b03759eeeb593bfb9[m
+Author: carternetty <carternetty@gmail.com>
+Date:   Wed Jul 6 09:13:02 2016 -0600
+
+    Revert "Website"
+    
+    This reverts commit fef2949da6a12edf44fc1d2bf18eeb2e7a37f672.
+
+[33mcommit fef2949da6a12edf44fc1d2bf18eeb2e7a37f672[m
+Author: carternetty <carternetty@gmail.com>
+Date:   Wed Jul 6 09:02:00 2016 -0600
+
+    Website
+    
+    These are the files for the website
+
+[33mcommit 2e9484db134b755ba2468cee019a67a6f49e4fbb[m
+Author: carternetty <carternetty@gmail.com>
+Date:   Wed Jul 6 08:53:07 2016 -0600
+
+    Initial commit

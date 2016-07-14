@@ -1,0 +1,59 @@
+body
+{
+	background-color: #555555;
+}
+
+h1
+{
+	color: #00ff00;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+h2
+{
+	color: #333333;
+	margin: 10px 0px 10px 0px;
+}
+
+p
+{
+	margin: 0px;
+	color: #333333;
+}
+
+.section
+{
+	display: flex;
+	background-color: #DDDDDD;
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+	height: 100px;
+	margin: 20px 0px 0px 60px;
+	transition: background-color .4s ease 0s;
+}
+
+.section:hover
+{
+	background-color: #BBBBBB;
+	cursor: pointer;
+}
+
+.textSection
+{
+	text-align: left;
+	height: 90px;
+	width: auto;
+	margin: 5px 0px 5px 10px;
+}
+
+.image
+{
+	height: 80px;
+	margin: 10px 20px 10px 20px;
+}
+
+#display
+{
+	display: list-item;
+}
